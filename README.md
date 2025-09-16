@@ -30,7 +30,7 @@ The goal of this task is to create a **simplified stock tracker** where:
   - `portfolio.txt`
   - `portfolio.csv`
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python 3**
 - **Dictionary** (for stock prices)
 - **Input/Output handling**
@@ -69,7 +69,7 @@ Do you want to save results? (txt/csv/no): csv
  Results saved in portfolio.csv
 ```
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Use of **dictionaries** for storing stock data.
 * Handling **user input and validation**.
@@ -79,6 +79,6 @@ Do you want to save results? (txt/csv/no): csv
 
 ---
 
-👨‍💻 **Author**: \[Srinidhi]
-📅 **Internship**: CodeAlpha Internship
-📝 **Task**: Task 2 – Stock Portfolio Tracker
+ **Author**: \[Srinidhi]
+ **Internship**: CodeAlpha Internship
+ **Task**: Task 2 – Stock Portfolio Tracker
