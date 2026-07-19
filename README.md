@@ -10,7 +10,7 @@ It’s a beginner-friendly project that demonstrates key programming concepts li
 **CodeAlpha Internship – Task 2**
 
 ##  Overview
-This project is a **Stock Portfolio Tracker** developed as part of the **CodeAlpha Internship (Task 2)**.  
+This project is a **Stock Portfolio Tracker**  
 The program allows users to input stock symbols and quantities, calculates the total investment value based on predefined stock prices, and generates a portfolio summary. Users can also save results into a `.txt` or `.csv` file.
 
 ##  Objective
