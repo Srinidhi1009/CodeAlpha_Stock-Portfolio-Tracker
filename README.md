@@ -7,7 +7,6 @@ It lets users enter stock symbols and quantities, calculates the total investmen
 It’s a beginner-friendly project that demonstrates key programming concepts like **dictionaries, input/output handling, arithmetic operations, and file handling** in Python. 
 
 # 📊 Stock Portfolio Tracker
-**CodeAlpha Internship – Task 2**
 
 ##  Overview
 This project is a **Stock Portfolio Tracker**  
