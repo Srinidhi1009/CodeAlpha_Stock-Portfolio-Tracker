@@ -1,9 +1,8 @@
 # CodeAlpha_Stock-Portfolio-Tracker
-This Stock Portfolio Tracker is built for CodeAlpha Internship Task 2. It lets users enter stock symbols and quantities, calculates the total investment using predefined stock prices, and shows a portfolio summary. Results can optionally be saved to a .txt or .csv file.
+This Stock Portfolio Tracker. It lets users enter stock symbols and quantities, calculates the total investment using predefined stock prices, and shows a portfolio summary. Results can optionally be saved to a .txt or .csv file.
 
 ##  Project Description 
-
-This Stock Portfolio Tracker is built for **CodeAlpha Internship Task 2**. It lets users enter stock symbols and quantities, calculates the total investment using predefined stock prices, and shows a portfolio summary. Results can optionally be saved to a `.txt` or `.csv` file.
+It lets users enter stock symbols and quantities, calculates the total investment using predefined stock prices, and shows a portfolio summary. Results can optionally be saved to a `.txt` or `.csv` file.
 
 It’s a beginner-friendly project that demonstrates key programming concepts like **dictionaries, input/output handling, arithmetic operations, and file handling** in Python. 
 
@@ -80,5 +79,3 @@ Do you want to save results? (txt/csv/no): csv
 ---
 
  **Author**: \[Srinidhi]
- **Internship**: CodeAlpha Internship
- **Task**: Task 2 – Stock Portfolio Tracker
